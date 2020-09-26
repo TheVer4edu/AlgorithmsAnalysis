@@ -1,0 +1,13 @@
+D:\Projects\dotnet\AlgorithmsAnalysis\bin\Debug\netcoreapp3.1\AlgorithmsAnalysis.exe
+D:\Projects\dotnet\AlgorithmsAnalysis\bin\Debug\netcoreapp3.1\AlgorithmsAnalysis.deps.json
+D:\Projects\dotnet\AlgorithmsAnalysis\bin\Debug\netcoreapp3.1\AlgorithmsAnalysis.runtimeconfig.json
+D:\Projects\dotnet\AlgorithmsAnalysis\bin\Debug\netcoreapp3.1\AlgorithmsAnalysis.runtimeconfig.dev.json
+D:\Projects\dotnet\AlgorithmsAnalysis\bin\Debug\netcoreapp3.1\AlgorithmsAnalysis.dll
+D:\Projects\dotnet\AlgorithmsAnalysis\bin\Debug\netcoreapp3.1\AlgorithmsAnalysis.pdb
+D:\Projects\dotnet\AlgorithmsAnalysis\obj\Debug\netcoreapp3.1\AlgorithmsAnalysis.csprojAssemblyReference.cache
+D:\Projects\dotnet\AlgorithmsAnalysis\obj\Debug\netcoreapp3.1\AlgorithmsAnalysis.AssemblyInfoInputs.cache
+D:\Projects\dotnet\AlgorithmsAnalysis\obj\Debug\netcoreapp3.1\AlgorithmsAnalysis.AssemblyInfo.cs
+D:\Projects\dotnet\AlgorithmsAnalysis\obj\Debug\netcoreapp3.1\AlgorithmsAnalysis.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\AlgorithmsAnalysis\obj\Debug\netcoreapp3.1\AlgorithmsAnalysis.dll
+D:\Projects\dotnet\AlgorithmsAnalysis\obj\Debug\netcoreapp3.1\AlgorithmsAnalysis.pdb
+D:\Projects\dotnet\AlgorithmsAnalysis\obj\Debug\netcoreapp3.1\AlgorithmsAnalysis.genruntimeconfig.cache
